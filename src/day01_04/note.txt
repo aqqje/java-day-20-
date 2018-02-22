@@ -16,3 +16,8 @@ continue:使用中徨结构中
 表示：结束"当前"循环
 
 break与continue都可以使用标签
+
+声明数组的错误写法:
+1.String[] names = new String[2]{"aa","bb","cc"};
+2.int i[10];
+3.int i = new int[];
