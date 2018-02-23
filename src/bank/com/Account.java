@@ -3,7 +3,7 @@ package bank.com;
 public class Account {
 
 	//帐户余额
-	private double balance;
+	protected double balance;
 	
 	public Account(double init_balance) {
 		balance = init_balance;

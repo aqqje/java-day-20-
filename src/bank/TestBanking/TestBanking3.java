@@ -18,8 +18,8 @@ public class TestBanking3 {
 	    account = new Account(500.00);
 	    System.out.println("Creating the customer Jane Smith.");
 		//code 
-	    customer.setAccount(account);
-	    account = customer.getAccount();
+	    //customer.setAccount(account);
+	    //account = customer.getAccount();
 	    System.out.println("Creating her account with a 500.00 balance.");
 	    
 		//code
