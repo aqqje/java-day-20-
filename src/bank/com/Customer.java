@@ -15,6 +15,9 @@ public class Customer {
 		lastName = l;
 //		accounts = new Account[5];
 	}
+	public Customer(Object f, Object l) {
+		// TODO Auto-generated constructor stub
+	}
 	public String getFirstName() {
 		return firstName;
 	}
